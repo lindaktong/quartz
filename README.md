@@ -2,8 +2,6 @@
 
 Hellooo! Welcome to my digital garden. Here, I plan on sharing notes from the books I'm reading and the connections I have made between them. 
 
-[comment]: <
-
 Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
 
 1. Extremely fast natural-language search
@@ -22,4 +20,3 @@ Check out some of the [amazing gardens that community members](https://quartz.jz
 
 [Join the Discord Community](https://discord.gg/cRFFHYye7t)
 
->
