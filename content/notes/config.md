@@ -75,14 +75,14 @@ description:
 
 # title of the home page (also for SEO)
 page_title:
-  "🪴 Quartz 3.3"
+  "🪴 Linda's Garden"
 
 # links to show in the footer
 links:
   - link_name: Twitter
-    link: https://twitter.com/_jzhao
+    link: https://twitter.com/lktong_
   - link_name: Github
-    link: https://github.com/jackyzha0
+    link: https://github.com/lindaktong
 ```
 
 ### Code Block Titles
