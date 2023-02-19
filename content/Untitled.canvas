@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"9299150ef17cc2d4","x":-257,"y":-172,"width":250,"height":60,"type":"text","text":"asdf"},
+		{"id":"bb4698add157e608","x":-77,"y":188,"width":250,"height":104,"type":"text","text":"asdf"},
+		{"id":"337630cd4cb5d45f","x":-823,"y":-12,"width":400,"height":400,"type":"file","file":"A Thousand Years of Good Prayers.md"}
+	],
+	"edges":[
+		{"id":"225719e988b92b81","fromNode":"9299150ef17cc2d4","fromSide":"bottom","toNode":"bb4698add157e608","toSide":"left"},
+		{"id":"e1a1610b33f1be3a","fromNode":"337630cd4cb5d45f","fromSide":"right","toNode":"bb4698add157e608","toSide":"left"}
+	]
+}
