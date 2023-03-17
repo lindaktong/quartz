@@ -26,5 +26,6 @@ How is technology shifting the fabric of our society? How do you translate big i
 What is the future of liberal education, and why is it a fundmanetal part of our democracy? 
 - [[The Closing of the American Mind]]
 - [[Submission]]
+- [[Educated]]
 
 [Here's a list of all the things I'm thinking about](/tags)

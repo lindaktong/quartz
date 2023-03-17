@@ -50,7 +50,7 @@ Overall, this book was a fascinating read. My goal in the future is to be well-v
 
 -   _Alibaba: The House that Jack Ma Built_, Duncan Clark
     
--   _Folding Beijing_ (北京折叠), Hao Jingfang (郝景芳)
+-   [[Folding Beijing]] (北京折叠), Hao Jingfang (郝景芳)
     
 -   I really want my Chinese to be good enough so that I can go back to reading in Chinese again :/
     
