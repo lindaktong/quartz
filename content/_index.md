@@ -3,12 +3,14 @@ title: Linda's Digital Garden
 enableToc: false
 ---
 
-Hi, welcome to my digital garden! Here, I hope to house some of my thinking and writing. 
+### Hello!
+
+Welcome to my digital garden! Here, I hope to house some of my thinking and writing. 
 
 - I [read](/tags/book)
 - I [listen to podcasts](/tags/acquired)
 
-Some questions that I'm pondering: 
+### Some questions that I'm pondering: 
 
 What makes life meaningful?
 - [[De Amicitia]]
@@ -24,6 +26,5 @@ How is technology shifting the fabric of our society? How do you translate big i
 What is the future of liberal education, and why is it a fundmanetal part of our democracy? 
 - [[The Closing of the American Mind]]
 - [[Submission]]
-- 
 
 [Here's a list of all the things I'm thinking about](/tags)
