@@ -9,7 +9,7 @@ date: 2022-09-20
 
 I read this book toward the end of the summer, during a time in my life when I felt confused about many things. For months, I have felt burnt out about the so-called “entrepreneurial ecosystem” at Stanford. In September, it felt nice to be away from Stanford for a bit when I was home with my family. Now I’m back in the thick of it all - biking frantically from place to place, having more people to meet than I have time for, doing the mental calculus of figuring out where to be, and desperately wanting to be in two places at once.
 
-The truth is that Stanford is a daunting place. I was reading the transcript of an AOPS session with college advice. The question posed was an interesting one: “What are some of the main ways that smart / high achieving kids fail once they get to Stanford? And what is the main advice you'd have for preventing (or recovering) from that failure?” The student gave an insightful answer:
+The truth is that [[Stanford]] is a daunting place. I was reading the transcript of an AOPS session with college advice. The question posed was an interesting one: “What are some of the main ways that smart / high achieving kids fail once they get to Stanford? And what is the main advice you'd have for preventing (or recovering) from that failure?” The student gave an insightful answer:
 
 > There are definitely new challenges here that can be hard to adapt to, such as the fact that you're suddenly surrounded by many more brilliant people, and the classes are much harder but also often more flexible, with the result that you're responsible for keeping yourself on schedule and not falling behind…accept that things are going to be harder now and that this is a good thing.
 
